@@ -1,0 +1,16 @@
+F:\gy\program\BY_GSP_EXPORT\BY_GSP_EXPORT\bin\Debug\BY_GSP_EXPORT.exe.config
+F:\gy\program\BY_GSP_EXPORT\BY_GSP_EXPORT\obj\Debug\BY_GSP_EXPORT.csprojResolveAssemblyReference.cache
+F:\gy\program\BY_GSP_EXPORT\BY_GSP_EXPORT\obj\Debug\BY_GSP_EXPORT.Form1.resources
+F:\gy\program\BY_GSP_EXPORT\BY_GSP_EXPORT\obj\Debug\BY_GSP_EXPORT.Properties.Resources.resources
+F:\gy\program\BY_GSP_EXPORT\BY_GSP_EXPORT\obj\Debug\BY_GSP_EXPORT.csproj.GenerateResource.Cache
+F:\gy\program\BY_GSP_EXPORT\BY_GSP_EXPORT\bin\Debug\BY_GSP_EXPORT.exe
+F:\gy\program\BY_GSP_EXPORT\BY_GSP_EXPORT\bin\Debug\BY_GSP_EXPORT.pdb
+F:\gy\program\BY_GSP_EXPORT\BY_GSP_EXPORT\obj\Debug\BY_GSP_EXPORT.exe
+F:\gy\program\BY_GSP_EXPORT\BY_GSP_EXPORT\obj\Debug\BY_GSP_EXPORT.pdb
+E:\gy\program\BY_GSP_EXPORT\BY_GSP_EXPORT\bin\Debug\BY_GSP_EXPORT.exe.config
+E:\gy\program\BY_GSP_EXPORT\BY_GSP_EXPORT\obj\Debug\BY_GSP_EXPORT.exe
+E:\gy\program\BY_GSP_EXPORT\BY_GSP_EXPORT\obj\Debug\BY_GSP_EXPORT.pdb
+E:\gy\program\Sanofi_GSP_EXPORT\BY_GSP_EXPORT\bin\Debug\BY_GSP_EXPORT.exe.config
+E:\gy\program\Sanofi_GSP_EXPORT\BY_GSP_EXPORT\obj\Debug\BY_GSP_EXPORT.exe
+E:\gy\program\Sanofi_GSP_EXPORT\BY_GSP_EXPORT\obj\Debug\BY_GSP_EXPORT.pdb
+E:\gy\program\Sanofi_GSP_EXPORT\BY_GSP_EXPORT\bin\Debug\Sanofi_GSP_EXPORT.exe.config

@@ -1,0 +1,16 @@
+E:\gy\program\Sanofi_GSP_EXPORT\BY_GSP_EXPORT\bin\Debug\Sanofi_GSP_EXPORT.exe.config
+E:\gy\program\Sanofi_GSP_EXPORT\BY_GSP_EXPORT\bin\Debug\Sanofi_GSP_EXPORT.exe
+E:\gy\program\Sanofi_GSP_EXPORT\BY_GSP_EXPORT\bin\Debug\Sanofi_GSP_EXPORT.pdb
+E:\gy\program\Sanofi_GSP_EXPORT\BY_GSP_EXPORT\bin\Debug\Oracle.DataAccess.dll
+E:\gy\program\Sanofi_GSP_EXPORT\BY_GSP_EXPORT\obj\Debug\Sanofi_GSP_EXPORT.csprojResolveAssemblyReference.cache
+E:\gy\program\Sanofi_GSP_EXPORT\BY_GSP_EXPORT\obj\Debug\Sanofi_GSP_EXPORT.Form1.resources
+E:\gy\program\Sanofi_GSP_EXPORT\BY_GSP_EXPORT\obj\Debug\Sanofi_GSP_EXPORT.Properties.Resources.resources
+E:\gy\program\Sanofi_GSP_EXPORT\BY_GSP_EXPORT\obj\Debug\Sanofi_GSP_EXPORT.relations_import.resources
+E:\gy\program\Sanofi_GSP_EXPORT\BY_GSP_EXPORT\obj\Debug\Sanofi_GSP_EXPORT.csproj.GenerateResource.Cache
+E:\gy\program\Sanofi_GSP_EXPORT\BY_GSP_EXPORT\obj\Debug\Sanofi_GSP_EXPORT.exe
+E:\gy\program\Sanofi_GSP_EXPORT\BY_GSP_EXPORT\obj\Debug\Sanofi_GSP_EXPORT.pdb
+E:\gy\program\Sanofi_GSP_EXPORT\BY_GSP_EXPORT\obj\Debug\Sanofi_GSP_EXPORT.mainform.resources
+E:\gy\program\Sanofi_GSP_EXPORT\BY_GSP_EXPORT\obj\Debug\Sanofi_GSP_EXPORT.excelform.resources
+E:\gy\program\Sanofi_GSP_EXPORT\BY_GSP_EXPORT\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\gy\program\Sanofi_GSP_EXPORT\BY_GSP_EXPORT\bin\Debug\NPOI.xml
+E:\gy\program\Sanofi_GSP_EXPORT\BY_GSP_EXPORT\obj\Debug\Sanofi_GSP_EXPORT.gsp_verify.resources
